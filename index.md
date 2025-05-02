@@ -5,3 +5,6 @@ Editado el archivo Index, agregando comentarios a este según lo solicitado por 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] saludar
+- [ ] babababa
+- [ ] This item is not complete
